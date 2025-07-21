@@ -1,7 +1,7 @@
-🧠 Sentiment Analysis with Machine Learning
+ Sentiment Analysis with Machine Learning🧠
 A complete machine learning pipeline to classify text sentiment using traditional ML algorithms and TF-IDF vectorization.
 
-📁 Dataset
+ Dataset📁
 Used a labeled dataset with text samples and sentiment categories (e.g., Positive, Negative, Neutral).
 Supports two datasets for training and testing.
 
